@@ -1,2 +1,3 @@
 # dharati_infra
-GitHub Pages
+Client requirement for this website is to create a showcase of everything they are working on for the past 20 years. Website is developed for Dharati Infrastructure, which is an excavation services provider based in Kolhapur, equipped with the most sophisticated infrastructure earthmoving as well as mining machinery in and around Maharashtra. 
+In this project, Technology used are HTML5, CSS, and Mobirise Bootstrap framework. The UI/UX was conceived with responsive and user friendly approach. So it would be possible to effortlessly launch it into any platform without making any changes to the main application. I am working on this project as freelancer.
